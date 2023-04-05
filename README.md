@@ -20,15 +20,19 @@ As the Growth Hacker and consultant for one of the primary products - micro loan
 
 ## Data Source
 Find the Data set [https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
+
 ![](microloan_company_excel_data.JPG)
 
-I added the data that was shared by the company through the add data tab on google data studio using Google sheets connector
+I added the data that was shared by the company through the add data tab on google data studio using Google sheets connector.
+
 It contains one sheet and columns like Months,Platform,Budgets,installs,Signups,LTV. 
 
 
 ## Data Modelling,Transformation and Cleaning
-Data was efficiently cleaned and transformed on google sheet
-Image below
+Data was efficiently cleaned and transformed on Google sheet.
+
+See image below
+
 ![](microloan_transformed_data.JPG)
 
 #### Some of the applied steps included
