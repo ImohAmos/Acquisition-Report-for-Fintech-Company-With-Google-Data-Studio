@@ -68,7 +68,9 @@ With all the data points, I created a dashboard with a set of visualization char
 
 ![](data_visualization.png)
 
-This the the link to the dashboard on Google data studio
+This the the link to the dashboard on Google data studio 
+
+(When the dashboard loads,please edit the date to January 2021 till date)
 
 [https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M]
 
