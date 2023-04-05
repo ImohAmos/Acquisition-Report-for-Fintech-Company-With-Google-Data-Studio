@@ -23,7 +23,9 @@ As the Growth Hacker and consultant for one of the primary products - micro loan
 - Google Data Studio
 
 ## Data Source
-Find the Data set here [https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
+Find the Data set here
+
+[https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
 
 ![](microloan_company_excel_data.JPG)
 
@@ -36,7 +38,9 @@ It contains one sheet and columns like Months,Platform,Budgets,installs,Signups,
 Data was efficiently cleaned and transformed on Google sheet.
 
 
-Find the transformed data set here [https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0]
+Find the transformed data set here
+
+[https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0]
 
 See image below
 
