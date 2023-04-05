@@ -13,19 +13,17 @@ The company is Fintech Startup with the mission of becoming the one-stop platfor
 As the Growth Hacker and consultant for one of the primary products - micro loan, in addition to other Growth Hackers for other products, the company checks acquisition performance on a weekly and monthly basis. Given the acquisition report from 2020 to 2022,I did proper analysis to answer the following questions.
 
 
-- Which channel are we overspending? And underspending.
-- When did we overspend?
-- Which channel is performing better?
-- What is the funnel conversion for a given month on a platform? For example, step by step funnel conversion for December 2021, by channel.
+1. Which channel are we overspending? And underspending.
+2. When did we overspend?
+3. Which channel is performing better?
+4. What is the funnel conversion for a given month on a platform? For example, step by step funnel conversion for December 2021, by channel.
 
 ## Analytical Tools Used
 - Google Sheets
 - Google Data Studio
 
 ## Data Source
-Find the Data set here
-
-[_https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0_]
+Find the Data set _**[here](https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0)**_
 
 ![](microloan_company_excel_data.JPG)
 
@@ -38,9 +36,7 @@ It contains one sheet and columns like Months,Platform,Budgets,installs,Signups,
 Data was efficiently cleaned and transformed on Google sheet.
 
 
-Find the transformed data set here
-
-[_https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0_]
+Find the transformed data set _**[here](https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0)**_
 
 See image below
 
@@ -69,11 +65,10 @@ With all the data points, I created a dashboard with a set of visualization char
 
 ![](data_visualization.png)
 
-This the the link to the dashboard on Google data studio 
+This is the  _**[link to the dashboard](https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M)**_ on Google data studio 
 
 (When the dashboard loads,please edit the date to January 2021 till date)
 
-[_https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M_]
 
 #### Which channel are we overspending? And underspending.
 - ANS: As Visualized in the "Total Expenditures by channels" graph, We overspent on Google Ads. Not just spending a lot, we overshoot the budget.
