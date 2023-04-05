@@ -5,7 +5,7 @@
 
 ## Introduction
 
-### About The Loan company
+#### About The Micro-loan company
 The company is Fintech Startup with the mission of becoming the one-stop platform for micro-entrepreneurs and small business owners to solve their financial needs. Branchless. Responsible. The Company leverages artificial intelligence to build an app-based product that has been downloaded by more than 2.5 Million people. It has processed over 5 Million micro-credit applications. A Dream Team of 120+ people, from multiple locations around the world, hustling everyday to make our crazy vision a reality - and won’t rest until our app is used everyday by millions of entrepreneurs!
 
 
@@ -18,18 +18,25 @@ As the Growth Hacker and consultant for one of the primary products - micro loan
 - Which channel is performing better?
 - What is the funnel conversion for a given month on a platform? For example, step by step funnel conversion for December 2021, by channel.
 
+## Analytical Tools Used
+- Google Sheets
+- Google Data Studio
+
 ## Data Source
-Find the Data set [https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
+Find the Data set here [https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
 
 ![](microloan_company_excel_data.JPG)
 
-I added the data that was shared by the company through the add data tab on google data studio using Google sheets connector.
+I added the data that was shared by the company through the "add data" tab on Google Data Studio using Google sheets connector.
 
 It contains one sheet and columns like Months,Platform,Budgets,installs,Signups,LTV. 
 
 
 ## Data Modelling,Transformation and Cleaning
 Data was efficiently cleaned and transformed on Google sheet.
+
+
+Find the transformed data set here [https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0]
 
 See image below
 
@@ -54,6 +61,7 @@ They were in percentages and i was able to do the funnel analysis with the field
 ## Data Visualization and Analysis
 The dashboard was done on Google Data Studio
 With all the data points, I created a dashboard with a set of visualization charts that helped company stakeholders get the answers to the problem statements easily
+
 ![](data_visualization.png)
 
 #### Which channel are we overspending? And underspending.
