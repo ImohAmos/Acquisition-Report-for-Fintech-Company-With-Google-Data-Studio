@@ -25,7 +25,7 @@ As the Growth Hacker and consultant for one of the primary products - micro loan
 ## Data Source
 Find the Data set here
 
-[https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
+[_https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0_]
 
 ![](microloan_company_excel_data.JPG)
 
@@ -40,7 +40,7 @@ Data was efficiently cleaned and transformed on Google sheet.
 
 Find the transformed data set here
 
-[https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0]
+[_https://docs.google.com/spreadsheets/d/1kPcYThnuk_wLOHE22LQ9vyXhNxu-auQTqWJpW_YE_UU/edit#gid=0_]
 
 See image below
 
@@ -48,10 +48,11 @@ See image below
 
 #### Some of the applied steps included
 Creating extra columns for metrics that helped me with assessing performance of the acquisition channels. The new columns that i created were to calculate parameters like;
-- The CAC(cost of acquisition) = [Budget spent/No. of Loans granted] * 1000
-- CPA(Cost per acquisition) =  [Budget spent/First time Installs] * 1000
-- LTV/CAC Ratio 
-- Variance = Budget - [Budget spent]
+- **The CAC(cost of acquisition) = [Budget spent/No. of Loans granted] * 1000**
+- **CPA(Cost per acquisition) =  [Budget spent/First time Installs] * 1000**
+- **LTV/CAC Ratio** 
+- **Variance = Budget - [Budget spent]**
+
 That helped me in the analysis
 
 I also added fields to the data by the use of calculated formulas on data studio ,this helped in my funnel analysis,
@@ -72,7 +73,7 @@ This the the link to the dashboard on Google data studio
 
 (When the dashboard loads,please edit the date to January 2021 till date)
 
-[https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M]
+[_https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M_]
 
 #### Which channel are we overspending? And underspending.
 - ANS: As Visualized in the "Total Expenditures by channels" graph, We overspent on Google Ads. Not just spending a lot, we overshoot the budget.
