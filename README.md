@@ -20,14 +20,16 @@ As the Growth Hacker and consultant for one of the primary products - micro loan
 
 ## Data Source
 Find the Data set [https://docs.google.com/spreadsheets/d/1gTEgjbcxGMdB1LsOgjzQwjJlZhUQ427BoacZ2jp-yAc/edit#gid=0]
+![](microloan_company_excel_data.JPG)
 
 I added the data that was shared by the company through the add data tab on google data studio using Google sheets connector
 It contains one sheet and columns like Months,Platform,Budgets,installs,Signups,LTV. 
 
 
 ## Data Modelling,Transformation and Cleaning
-Data was efficiently cleaned and transformed on google sheet 
-![](microloan_comany_excel_data.JPG)
+Data was efficiently cleaned and transformed on google sheet
+Image below
+![](microloan_transformed_data.JPG)
 
 #### Some of the applied steps included
 Creating extra columns for metrics that helped me with assessing performance of the acquisition channels. The new columns that i created were to calculate parameters like;
@@ -78,14 +80,13 @@ The funnel for December 2021 also reflects that Facebook leads convert better.
 
 ### Conlusion and Recommendation)
 
-Looking at the charts created, the following questions were answered - 
-Why do you think one channel performs better than the other one?
+Looking at the charts created, the following questions were answered
+
+#### Why do you think one channel performs better than the other one?
 Looking at the conversion rate, we could see that even when we didn't get the number of leads on Facebook as we got on Google, Facebook gave us more conversions, which could imply that ;
 - 1. We acquired better leads by reaching the right audience.
 - 2. The types of Ads we placed on Facebook were more effective
 and also we reached better demographics than Google ads, even with a lower budget. and expenditure.
-
-
 
 
 ### What could be the reason for CTR in an acquisition channel to drop?
