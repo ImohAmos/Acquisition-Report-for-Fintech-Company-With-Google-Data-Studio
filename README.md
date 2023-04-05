@@ -68,6 +68,10 @@ With all the data points, I created a dashboard with a set of visualization char
 
 ![](data_visualization.png)
 
+This the the link to the dashboard on Google data studio
+
+[https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M]
+
 #### Which channel are we overspending? And underspending.
 - ANS: As Visualized in the "Total Expenditures by channels" graph, We overspent on Google Ads. Not just spending a lot, we overshoot the budget.
 
