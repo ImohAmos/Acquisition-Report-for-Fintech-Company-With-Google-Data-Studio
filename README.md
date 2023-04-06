@@ -96,7 +96,7 @@ The funnel for December 2021 also reflects that Facebook leads convert better.
 
 
 
-### Conlusion and Recommendation)
+## Conlusion and Recommendation)
 
 Looking at the charts created, the following questions were answered
 
@@ -107,7 +107,7 @@ Looking at the conversion rate, we could see that even when we didn't get the nu
 and also we reached better demographics than Google ads, even with a lower budget. and expenditure.
 
 
-### What could be the reason for CTR in an acquisition channel to drop?
+#### What could be the reason for CTR in an acquisition channel to drop?
 A drop in an acquisition channel may be an indicator that;
 1. The copy or headline isn’t effective or
 2. that we are targeting the wrong audience or
