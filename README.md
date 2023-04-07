@@ -1,4 +1,5 @@
 # User-Acquisition-Report-for-Microloan-Company
+This Analysis was done for a loan company I did contract for.
 
 ![](user_acquisition.jpg)
 
