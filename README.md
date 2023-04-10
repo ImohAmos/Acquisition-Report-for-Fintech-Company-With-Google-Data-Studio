@@ -68,7 +68,7 @@ With all the data points, I created a dashboard with a set of visualization char
 
 This is the  _**[link to the dashboard](https://lookerstudio.google.com/reporting/921e1efc-dbc9-47a0-a90a-c57ea2cb88bb/page/1M)**_ on Google data studio 
 
-(When the dashboard loads,please edit the date to January 2021 till date)
+_***(When the dashboard loads,please edit the date to January 2021 till date)***_
 
 
 #### Which channel are we overspending? And underspending.
